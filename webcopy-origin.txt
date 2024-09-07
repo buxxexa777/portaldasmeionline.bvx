@@ -1,0 +1,52 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://portaldasmeionline.site/assets/css/pgmei.css
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\css\pgmei.css
+Content Type: text/css
+
+Uri: https://portaldasmeionline.site/assets/img/favicon.ico
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://portaldasmeionline.site/assets/img/logo-simples.png
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\img\logo-simples.png
+Content Type: image/png
+
+Uri: https://portaldasmeionline.site/assets/img/marca_Simples_entes.png
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\img\marca_Simples_entes.png
+Content Type: image/png
+
+Uri: https://portaldasmeionline.site/assets/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://portaldasmeionline.site/assets/js/jquery.js
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://portaldasmeionline.site/assets/js/ladda.js
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\js\ladda.js
+Content Type: application/javascript
+
+Uri: https://portaldasmeionline.site/assets/js/pgmei_layout.js
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\js\pgmei_layout.js
+Content Type: application/javascript
+
+Uri: https://portaldasmeionline.site/assets/js/pgmei_old.js
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\js\pgmei_old.js
+Content Type: application/javascript
+
+Uri: https://portaldasmeionline.site/assets/js/select.js
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\js\select.js
+Content Type: application/javascript
+
+Uri: https://portaldasmeionline.site/assets/js/toastr.js
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\assets\js\toastr.js
+Content Type: application/javascript
+
+Uri: https://portaldasmeionline.site/v/12
+File Name: C:\Downloaded Web Sites\portaldasmeionline.site\v\12.html
+Content Type: text/html
+
